@@ -14,3 +14,14 @@ Installing locally:
 8) Open http://127.0.0.1:8001/ in your browser
 
 
+Packages and dependencies
+1) Laravel 9
+2) Bootstrap 5
+3) Socialite (social logins)
+4) Free admin theme found at https://matrixadmin.wrappixel.com/
+
+
+Other comments:
+1) Resource controllers for stadardised CRUD
+2) There's admin + user roles managed my middleware
+3) No migration seeds are quired for installation.
