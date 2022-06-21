@@ -1,8 +1,7 @@
 # Laravel
 Laravel samples
 
-Database: MySQL
-Local server: Xampp
+Database: MySQL, Local server: Xampp
 
 Installing locally:
 1) Unzip or GIT into a folder of your choice
