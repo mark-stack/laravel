@@ -1,4 +1,4 @@
-# Laravel
+# Laravel 9 + Bootstrap 5
 Laravel samples
 
 Database: MySQL, Local server: Xampp
@@ -24,4 +24,4 @@ Packages and dependencies
 Other comments:
 1) Resource controllers for stadardised CRUD
 2) There's admin + user roles managed my middleware
-3) No migration seeds are quired for installation.
+3) No migration seeds are required for installation.
